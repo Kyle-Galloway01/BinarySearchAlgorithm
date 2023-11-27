@@ -1,4 +1,5 @@
-#Binary Search Algorithm in Java
+
+Binary Search Algorithm in Java
 This Java project implements the Binary Search algorithm, a fundamental searching algorithm used on sorted arrays.
 
 Overview
